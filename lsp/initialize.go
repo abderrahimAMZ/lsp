@@ -32,7 +32,14 @@ type InitializeResult struct {
 	ServerInfo ServerInfo `json:"serverInfo"`
 }
 	
-type ServerCapabilities struct {}
+type ServerCapabilities struct {
+	TextDocumentSync int `json:"textDocumentSync"`
+	HoverProvider bool `json:"hoverProvider"`
+	DefinitinProvider bool `json:"definitionProvider"`
+	CodeActionProvider bool `json:"codeActionProvider"`
+	CompletionProvider map[string]any `json:"completionProvider"`
+	
+}
 
 type ServerInfo struct {
 	Name string `json:"name"`
@@ -47,7 +54,13 @@ func NewInitializeResponse(id int) InitializeResponse {
 			ID: id,
 		},
 		Result: InitializeResult{
-			Capabilities: ServerCapabilities{},
+			Capabilities: ServerCapabilities{
+				TextDocumentSync: 1,
+				HoverProvider:	true,
+				DefinitinProvider: true,
+				CodeActionProvider: true,
+				CompletionProvider: map[string]any{},
+			},
 			ServerInfo: ServerInfo{
 				Name: "educatinal lsp",
 				Version: "0.0.1",

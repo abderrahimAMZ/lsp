@@ -53,3 +53,662 @@
 [lsp]2024/04/03 22:29:01 main.go:37: Received msg with method : initialized 
 [lsp]2024/04/03 22:29:05 main.go:37: Received msg with method : shutdown 
 [lsp]2024/04/04 00:33:45 main.go:37: Received msg with method : shutdown 
+[lsp]2024/04/04 13:58:37 main.go:16: Hey, I started!
+[lsp]2024/04/04 13:58:37 main.go:37: Received msg with method : initialize 
+[lsp]2024/04/04 13:58:37 main.go:46: Connected to Neovim 0.10.0-dev+g931f28841
+[lsp]2024/04/04 13:58:37 main.go:54: Sent the reply
+[lsp]2024/04/04 13:58:37 main.go:37: Received msg with method : initialized 
+[lsp]2024/04/04 14:11:29 main.go:37: Received msg with method : shutdown 
+[lsp]2024/04/04 14:11:52 main.go:16: Hey, I started!
+[lsp]2024/04/04 14:11:52 main.go:37: Received msg with method : initialize 
+[lsp]2024/04/04 14:11:52 main.go:46: Connected to Neovim 0.10.0-dev+g931f28841
+[lsp]2024/04/04 14:11:52 main.go:54: Sent the reply
+[lsp]2024/04/04 14:11:52 main.go:37: Received msg with method : initialized 
+[lsp]2024/04/04 14:11:52 main.go:37: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 14:12:27 main.go:37: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 14:12:27 main.go:37: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 14:12:28 main.go:37: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 14:12:28 main.go:37: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 14:12:28 main.go:37: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 14:12:28 main.go:37: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 14:12:28 main.go:37: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 14:12:29 main.go:37: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 14:12:29 main.go:37: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 14:12:29 main.go:37: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 14:12:29 main.go:37: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 14:12:29 main.go:37: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 14:12:29 main.go:37: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 14:12:29 main.go:37: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 14:12:30 main.go:37: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 14:12:30 main.go:37: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 14:12:30 main.go:37: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 14:12:30 main.go:37: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 14:36:58 main.go:37: Received msg with method : textDocument/didSave 
+[lsp]2024/04/04 14:36:58 main.go:37: Received msg with method : shutdown 
+[lsp]2024/04/04 14:37:10 main.go:16: Hey, I started!
+[lsp]2024/04/04 14:37:10 main.go:37: Received msg with method : initialize 
+[lsp]2024/04/04 14:37:10 main.go:46: Connected to Neovim 0.10.0-dev+g931f28841
+[lsp]2024/04/04 14:37:10 main.go:54: Sent the reply
+[lsp]2024/04/04 14:37:10 main.go:37: Received msg with method : initialized 
+[lsp]2024/04/04 14:37:10 main.go:37: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 14:37:10 main.go:60: Connected to file:///home/amz/lsp/README.md
+[lsp]2024/04/04 14:37:10 main.go:63: Connected to # me making lsp , this content should be bought with money!
+
+hi, i'm learning from tj devries
+hi, how are you doing 
+[lsp]2024/04/04 14:39:48 main.go:37: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 15:19:59 main.go:37: Received msg with method : textDocument/didSave 
+[lsp]2024/04/04 15:20:00 main.go:37: Received msg with method : textDocument/didSave 
+[lsp]2024/04/04 15:20:00 main.go:37: Received msg with method : shutdown 
+[lsp]2024/04/04 15:20:19 main.go:17: Hey, I started!
+[lsp]2024/04/04 15:20:19 main.go:40: Received msg with method : initialize 
+[lsp]2024/04/04 15:20:19 main.go:49: Connected to Neovim 0.10.0-dev+g931f28841
+[lsp]2024/04/04 15:20:19 main.go:57: Sent the reply
+[lsp]2024/04/04 15:20:19 main.go:40: Received msg with method : initialized 
+[lsp]2024/04/04 15:20:19 main.go:40: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 15:20:19 main.go:63:  file:///home/amz/lsp/README.md
+[lsp]2024/04/04 15:20:19 main.go:66:  # me making lsp , this content should be bought with money!
+
+hi, i'm learning from tj devries
+hi, how are you doing 
+
+[lsp]2024/04/04 15:20:44 main.go:40: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 15:20:44 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 15:20:44 main.go:40: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 15:20:44 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 15:20:44 main.go:40: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 15:20:44 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 15:20:44 main.go:40: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 15:20:44 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 15:20:45 main.go:40: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 15:20:45 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 15:20:45 main.go:40: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 15:20:45 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 15:29:57 main.go:40: Received msg with method : textDocument/didSave 
+[lsp]2024/04/04 15:29:57 main.go:40: Received msg with method : shutdown 
+[lsp]2024/04/04 15:30:07 main.go:17: Hey, I started!
+[lsp]2024/04/04 15:30:07 main.go:40: Received msg with method : initialize 
+[lsp]2024/04/04 15:30:07 main.go:49: Connected to Neovim 0.10.0-dev+g931f28841
+[lsp]2024/04/04 15:30:07 main.go:57: Sent the reply
+[lsp]2024/04/04 15:30:07 main.go:40: Received msg with method : initialized 
+[lsp]2024/04/04 15:30:07 main.go:40: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 15:30:07 main.go:63:  file:///home/amz/lsp/README.md
+[lsp]2024/04/04 15:30:07 main.go:66:  # me making lsp , this content should be bought with money!
+
+hi, i'm learning from tj devries
+hi, how are you doing 
+whatever
+[lsp]2024/04/04 15:31:37 main.go:40: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 15:31:37 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 15:31:37 main.go:40: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 15:31:37 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 15:31:37 main.go:40: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 15:31:37 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 15:31:37 main.go:40: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 15:31:37 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 15:31:38 main.go:40: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 15:31:38 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 15:31:38 main.go:40: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 15:31:38 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 15:31:38 main.go:40: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 15:31:38 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 15:31:38 main.go:40: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 15:31:38 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 15:31:38 main.go:40: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 15:31:38 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 15:31:38 main.go:40: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 15:31:38 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 15:31:38 main.go:40: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 15:31:38 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 15:32:36 main.go:40: Received msg with method : textDocument/hover 
+[lsp]2024/04/04 15:50:21 main.go:40: Received msg with method : textDocument/didSave 
+[lsp]2024/04/04 15:50:21 main.go:40: Received msg with method : shutdown 
+[lsp]2024/04/04 15:50:33 main.go:18: Hey, I started!
+[lsp]2024/04/04 15:50:33 main.go:42: Received msg with method : initialize 
+[lsp]2024/04/04 15:50:33 main.go:51: Connected to Neovim 0.10.0-dev+g931f28841
+[lsp]2024/04/04 15:50:33 main.go:57: Sent the reply
+[lsp]2024/04/04 15:50:33 main.go:42: Received msg with method : initialized 
+[lsp]2024/04/04 15:50:33 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 15:50:33 main.go:63:  file:///home/amz/lsp/README.md
+[lsp]2024/04/04 15:50:33 main.go:66:  # me making lsp , this content should be bought with money!
+
+hi, i'm learning from tj devries
+hi, how are you doing 
+whatever i write here
+[lsp]2024/04/04 15:50:42 main.go:42: Received msg with method : textDocument/hover 
+[lsp]2024/04/04 15:50:42 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 15:50:42 main.go:63:  file://
+[lsp]2024/04/04 15:50:42 main.go:66:  
+[lsp]2024/04/04 15:50:43 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 15:50:43 main.go:74: Changed: file://
+[lsp]2024/04/04 15:50:46 main.go:42: Received msg with method : textDocument/didClose 
+[lsp]2024/04/04 15:50:47 main.go:42: Received msg with method : textDocument/hover 
+[lsp]2024/04/04 15:50:47 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 15:50:47 main.go:63:  file://
+[lsp]2024/04/04 15:50:47 main.go:66:  
+[lsp]2024/04/04 15:50:47 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 15:50:47 main.go:74: Changed: file://
+[lsp]2024/04/04 15:50:48 main.go:42: Received msg with method : textDocument/didClose 
+[lsp]2024/04/04 15:50:49 main.go:42: Received msg with method : textDocument/hover 
+[lsp]2024/04/04 15:50:49 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 15:50:49 main.go:63:  file://
+[lsp]2024/04/04 15:50:49 main.go:66:  
+[lsp]2024/04/04 15:50:49 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 15:50:49 main.go:74: Changed: file://
+[lsp]2024/04/04 15:50:50 main.go:42: Received msg with method : textDocument/didClose 
+[lsp]2024/04/04 15:54:43 main.go:42: Received msg with method : shutdown 
+[lsp]2024/04/04 15:54:46 main.go:18: Hey, I started!
+[lsp]2024/04/04 15:54:46 main.go:42: Received msg with method : initialize 
+[lsp]2024/04/04 15:54:46 main.go:51: Connected to Neovim 0.10.0-dev+g931f28841
+[lsp]2024/04/04 15:54:46 main.go:57: Sent the reply
+[lsp]2024/04/04 15:54:46 main.go:42: Received msg with method : initialized 
+[lsp]2024/04/04 16:00:30 main.go:42: Received msg with method : shutdown 
+[lsp]2024/04/04 16:00:38 main.go:18: Hey, I started!
+[lsp]2024/04/04 16:00:38 main.go:42: Received msg with method : initialize 
+[lsp]2024/04/04 16:00:38 main.go:51: Connected to Neovim 0.10.0-dev+g931f28841
+[lsp]2024/04/04 16:00:38 main.go:57: Sent the reply
+[lsp]2024/04/04 16:00:38 main.go:42: Received msg with method : initialized 
+[lsp]2024/04/04 16:00:38 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 16:00:38 main.go:63:  file:///home/amz/lsp/README.md
+[lsp]2024/04/04 16:00:38 main.go:66:  # me making lsp , this content should be bought with money!
+
+hi, i'm learning from tj devries
+hi, how are you doing 
+whatever i write here
+[lsp]2024/04/04 16:00:41 main.go:42: Received msg with method : textDocument/hover 
+[lsp]2024/04/04 16:00:41 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 16:00:41 main.go:63:  file://
+[lsp]2024/04/04 16:00:41 main.go:66:  
+[lsp]2024/04/04 16:00:41 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:00:41 main.go:74: Changed: file://
+[lsp]2024/04/04 16:00:42 main.go:42: Received msg with method : textDocument/didClose 
+[lsp]2024/04/04 16:00:43 main.go:42: Received msg with method : textDocument/hover 
+[lsp]2024/04/04 16:00:43 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 16:00:43 main.go:63:  file://
+[lsp]2024/04/04 16:00:43 main.go:66:  
+[lsp]2024/04/04 16:00:44 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:00:44 main.go:74: Changed: file://
+[lsp]2024/04/04 16:00:44 main.go:42: Received msg with method : textDocument/didClose 
+[lsp]2024/04/04 16:00:46 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:00:46 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 16:00:46 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:00:46 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 16:00:46 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:00:46 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 16:00:47 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:00:47 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 16:00:47 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:00:47 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 16:00:47 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:00:47 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 16:00:47 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:00:47 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 16:00:47 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:00:47 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 16:00:47 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:00:47 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 16:00:48 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:00:48 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 16:00:48 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:00:48 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 16:00:48 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:00:48 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 16:00:48 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:00:48 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 16:00:48 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:00:48 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 16:00:48 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:00:48 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 16:00:49 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:00:49 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 16:00:50 main.go:42: Received msg with method : textDocument/hover 
+[lsp]2024/04/04 16:00:50 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 16:00:50 main.go:63:  file://
+[lsp]2024/04/04 16:00:50 main.go:66:  
+[lsp]2024/04/04 16:00:51 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:00:51 main.go:74: Changed: file://
+[lsp]2024/04/04 16:00:52 main.go:42: Received msg with method : textDocument/didClose 
+[lsp]2024/04/04 16:00:53 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:00:53 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 16:00:54 main.go:42: Received msg with method : textDocument/hover 
+[lsp]2024/04/04 16:00:54 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 16:00:54 main.go:63:  file://
+[lsp]2024/04/04 16:00:54 main.go:66:  
+[lsp]2024/04/04 16:00:54 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:00:54 main.go:74: Changed: file://
+[lsp]2024/04/04 16:47:52 main.go:42: Received msg with method : textDocument/didClose 
+[lsp]2024/04/04 16:47:57 main.go:42: Received msg with method : textDocument/hover 
+[lsp]2024/04/04 16:47:57 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 16:47:57 main.go:63:  file://
+[lsp]2024/04/04 16:47:57 main.go:66:  
+[lsp]2024/04/04 16:47:57 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:47:57 main.go:74: Changed: file://
+[lsp]2024/04/04 16:47:59 main.go:42: Received msg with method : textDocument/didClose 
+[lsp]2024/04/04 16:48:00 main.go:42: Received msg with method : textDocument/hover 
+[lsp]2024/04/04 16:48:00 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 16:48:00 main.go:63:  file://
+[lsp]2024/04/04 16:48:00 main.go:66:  
+[lsp]2024/04/04 16:48:00 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:48:00 main.go:74: Changed: file://
+[lsp]2024/04/04 16:48:00 main.go:42: Received msg with method : textDocument/didClose 
+[lsp]2024/04/04 16:48:01 main.go:42: Received msg with method : textDocument/hover 
+[lsp]2024/04/04 16:48:01 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 16:48:01 main.go:63:  file://
+[lsp]2024/04/04 16:48:01 main.go:66:  
+[lsp]2024/04/04 16:48:02 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:48:02 main.go:74: Changed: file://
+[lsp]2024/04/04 16:48:02 main.go:42: Received msg with method : textDocument/didClose 
+[lsp]2024/04/04 16:48:03 main.go:42: Received msg with method : textDocument/hover 
+[lsp]2024/04/04 16:48:03 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 16:48:03 main.go:63:  file://
+[lsp]2024/04/04 16:48:03 main.go:66:  
+[lsp]2024/04/04 16:48:04 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:48:04 main.go:74: Changed: file://
+[lsp]2024/04/04 16:48:04 main.go:42: Received msg with method : textDocument/didClose 
+[lsp]2024/04/04 16:48:06 main.go:42: Received msg with method : textDocument/hover 
+[lsp]2024/04/04 16:48:06 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 16:48:06 main.go:63:  file://
+[lsp]2024/04/04 16:48:06 main.go:66:  
+[lsp]2024/04/04 16:48:06 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:48:06 main.go:74: Changed: file://
+[lsp]2024/04/04 16:48:08 main.go:42: Received msg with method : textDocument/didSave 
+[lsp]2024/04/04 16:48:08 main.go:42: Received msg with method : shutdown 
+[lsp]2024/04/04 16:48:16 main.go:18: Hey, I started!
+[lsp]2024/04/04 16:48:16 main.go:42: Received msg with method : initialize 
+[lsp]2024/04/04 16:48:16 main.go:51: Connected to Neovim 0.10.0-dev+g931f28841
+[lsp]2024/04/04 16:48:16 main.go:57: Sent the reply
+[lsp]2024/04/04 16:48:16 main.go:42: Received msg with method : initialized 
+[lsp]2024/04/04 16:48:22 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 16:48:22 main.go:63:  file://
+[lsp]2024/04/04 16:48:22 main.go:66:  
+[lsp]2024/04/04 16:48:22 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:48:22 main.go:74: Changed: file://
+[lsp]2024/04/04 16:48:23 main.go:42: Received msg with method : textDocument/didClose 
+[lsp]2024/04/04 16:48:24 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 16:48:24 main.go:63:  file://
+[lsp]2024/04/04 16:48:24 main.go:66:  
+[lsp]2024/04/04 16:48:24 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:48:24 main.go:74: Changed: file://
+[lsp]2024/04/04 16:48:25 main.go:42: Received msg with method : textDocument/didClose 
+[lsp]2024/04/04 16:48:26 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 16:48:26 main.go:63:  file://
+[lsp]2024/04/04 16:48:26 main.go:66:  
+[lsp]2024/04/04 16:48:26 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:48:26 main.go:74: Changed: file://
+[lsp]2024/04/04 16:48:27 main.go:42: Received msg with method : textDocument/didClose 
+[lsp]2024/04/04 16:48:28 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 16:48:28 main.go:63:  file://
+[lsp]2024/04/04 16:48:28 main.go:66:  
+[lsp]2024/04/04 16:48:28 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:48:28 main.go:74: Changed: file://
+[lsp]2024/04/04 16:48:29 main.go:42: Received msg with method : textDocument/didClose 
+[lsp]2024/04/04 16:48:30 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 16:48:30 main.go:63:  file://
+[lsp]2024/04/04 16:48:30 main.go:66:  
+[lsp]2024/04/04 16:48:30 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:48:30 main.go:74: Changed: file://
+[lsp]2024/04/04 16:48:31 main.go:42: Received msg with method : textDocument/didClose 
+[lsp]2024/04/04 16:48:32 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 16:48:32 main.go:63:  file://
+[lsp]2024/04/04 16:48:32 main.go:66:  
+[lsp]2024/04/04 16:48:32 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:48:32 main.go:74: Changed: file://
+[lsp]2024/04/04 16:48:35 main.go:42: Received msg with method : textDocument/didClose 
+[lsp]2024/04/04 16:48:36 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 16:48:36 main.go:63:  file://
+[lsp]2024/04/04 16:48:36 main.go:66:  
+[lsp]2024/04/04 16:48:36 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:48:36 main.go:74: Changed: file://
+[lsp]2024/04/04 16:48:38 main.go:42: Received msg with method : textDocument/didClose 
+[lsp]2024/04/04 16:48:39 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 16:48:39 main.go:63:  file://
+[lsp]2024/04/04 16:48:39 main.go:66:  
+[lsp]2024/04/04 16:48:39 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:48:39 main.go:74: Changed: file://
+[lsp]2024/04/04 16:48:39 main.go:42: Received msg with method : textDocument/didClose 
+[lsp]2024/04/04 16:48:41 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 16:48:41 main.go:63:  file://
+[lsp]2024/04/04 16:48:41 main.go:66:  
+[lsp]2024/04/04 16:48:41 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:48:41 main.go:74: Changed: file://
+[lsp]2024/04/04 16:48:49 main.go:42: Received msg with method : textDocument/didClose 
+[lsp]2024/04/04 16:56:00 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 16:56:00 main.go:63:  file://
+[lsp]2024/04/04 16:56:00 main.go:66:  
+[lsp]2024/04/04 16:56:00 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 16:56:00 main.go:74: Changed: file://
+[lsp]2024/04/04 16:56:02 main.go:42: Received msg with method : textDocument/didClose 
+[lsp]2024/04/04 17:04:50 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 17:04:50 main.go:63:  file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:04:50 main.go:66:  # me making lsp , this content should be bought with money!
+
+hi, i'm learning from tj devries
+hi, how are you doing 
+whatever i write here
+[lsp]2024/04/04 17:04:58 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:04:58 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:04:59 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:04:59 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:05:01 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:05:01 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:05:02 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:05:02 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:05:07 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:05:07 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:05:08 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:05:08 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:05:09 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:05:09 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:05:11 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:05:11 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:05:12 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:05:12 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:05:17 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:05:17 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:05:17 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:05:17 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:05:21 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:05:21 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:05:22 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:05:22 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:05:22 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:05:22 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:05:22 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:05:22 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:05:43 main.go:42: Received msg with method : textDocument/hover 
+[lsp]2024/04/04 17:05:43 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 17:05:43 main.go:63:  file://
+[lsp]2024/04/04 17:05:43 main.go:66:  
+[lsp]2024/04/04 17:05:43 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:05:43 main.go:74: Changed: file://
+[lsp]2024/04/04 17:05:45 main.go:42: Received msg with method : textDocument/didClose 
+[lsp]2024/04/04 17:05:46 main.go:42: Received msg with method : textDocument/hover 
+[lsp]2024/04/04 17:05:46 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 17:05:46 main.go:63:  file://
+[lsp]2024/04/04 17:05:46 main.go:66:  
+[lsp]2024/04/04 17:05:46 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:05:46 main.go:74: Changed: file://
+[lsp]2024/04/04 17:06:19 main.go:42: Received msg with method : textDocument/didClose 
+[lsp]2024/04/04 17:07:05 main.go:42: Received msg with method : textDocument/didSave 
+[lsp]2024/04/04 17:07:12 main.go:42: Received msg with method : shutdown 
+[lsp]2024/04/04 17:07:27 main.go:18: Hey, I started!
+[lsp]2024/04/04 17:07:27 main.go:42: Received msg with method : initialize 
+[lsp]2024/04/04 17:07:27 main.go:51: Connected to Neovim 0.10.0-dev+g931f28841
+[lsp]2024/04/04 17:07:27 main.go:57: Sent the reply
+[lsp]2024/04/04 17:07:27 main.go:42: Received msg with method : initialized 
+[lsp]2024/04/04 17:07:27 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 17:07:27 main.go:63:  file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:07:27 main.go:66:  # me making lsp , this content should be bought with money!
+
+hi, i'm learning from tj devries
+hi, how are you doing 
+whatever i write here
+[lsp]2024/04/04 17:07:31 main.go:42: Received msg with method : textDocument/hover 
+[lsp]2024/04/04 17:07:31 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 17:07:31 main.go:63:  file://
+[lsp]2024/04/04 17:07:31 main.go:66:  
+[lsp]2024/04/04 17:07:31 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:07:31 main.go:74: Changed: file://
+[lsp]2024/04/04 17:07:32 main.go:42: Received msg with method : textDocument/didClose 
+[lsp]2024/04/04 17:07:54 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:07:54 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:07:55 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:07:55 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:09:07 main.go:42: Received msg with method : textDocument/definition 
+[lsp]2024/04/04 17:09:09 main.go:42: Received msg with method : textDocument/definition 
+[lsp]2024/04/04 17:09:10 main.go:42: Received msg with method : textDocument/definition 
+[lsp]2024/04/04 17:09:10 main.go:42: Received msg with method : textDocument/definition 
+[lsp]2024/04/04 17:09:14 main.go:42: Received msg with method : textDocument/definition 
+[lsp]2024/04/04 17:09:15 main.go:42: Received msg with method : textDocument/definition 
+[lsp]2024/04/04 17:12:29 main.go:42: Received msg with method : textDocument/hover 
+[lsp]2024/04/04 17:12:29 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 17:12:29 main.go:63:  file://
+[lsp]2024/04/04 17:12:29 main.go:66:  
+[lsp]2024/04/04 17:12:29 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:12:29 main.go:74: Changed: file://
+[lsp]2024/04/04 17:12:30 main.go:42: Received msg with method : textDocument/didClose 
+[lsp]2024/04/04 17:12:35 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:12:35 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:12:36 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:12:36 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:24:50 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 17:24:50 main.go:63:  file://
+[lsp]2024/04/04 17:24:50 main.go:66:  
+[lsp]2024/04/04 17:24:50 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:24:50 main.go:74: Changed: file://
+[lsp]2024/04/04 17:24:56 main.go:42: Received msg with method : textDocument/didClose 
+[lsp]2024/04/04 17:24:58 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 17:24:58 main.go:63:  file://
+[lsp]2024/04/04 17:24:58 main.go:66:  
+[lsp]2024/04/04 17:24:58 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:24:58 main.go:74: Changed: file://
+[lsp]2024/04/04 17:24:59 main.go:42: Received msg with method : textDocument/didClose 
+[lsp]2024/04/04 17:25:02 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 17:25:02 main.go:63:  file://
+[lsp]2024/04/04 17:25:02 main.go:66:  
+[lsp]2024/04/04 17:25:02 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:25:02 main.go:74: Changed: file://
+[lsp]2024/04/04 17:25:04 main.go:42: Received msg with method : textDocument/didClose 
+[lsp]2024/04/04 17:25:06 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 17:25:06 main.go:63:  file://
+[lsp]2024/04/04 17:25:06 main.go:66:  
+[lsp]2024/04/04 17:25:06 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:25:06 main.go:74: Changed: file://
+[lsp]2024/04/04 17:25:07 main.go:42: Received msg with method : textDocument/didClose 
+[lsp]2024/04/04 17:30:09 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 17:30:09 main.go:63:  file://
+[lsp]2024/04/04 17:30:09 main.go:66:  
+[lsp]2024/04/04 17:30:09 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:30:09 main.go:74: Changed: file://
+[lsp]2024/04/04 17:37:39 main.go:42: Received msg with method : textDocument/didClose 
+[lsp]2024/04/04 17:38:07 main.go:18: Hey, I started!
+[lsp]2024/04/04 17:38:07 main.go:42: Received msg with method : initialize 
+[lsp]2024/04/04 17:38:07 main.go:51: Connected to Neovim 0.10.0-dev+g931f28841
+[lsp]2024/04/04 17:38:07 main.go:57: Sent the reply
+[lsp]2024/04/04 17:38:07 main.go:42: Received msg with method : initialized 
+[lsp]2024/04/04 17:48:04 main.go:42: Received msg with method : shutdown 
+[lsp]2024/04/04 17:48:16 main.go:18: Hey, I started!
+[lsp]2024/04/04 17:48:16 main.go:42: Received msg with method : initialize 
+[lsp]2024/04/04 17:48:16 main.go:51: Connected to Neovim 0.10.0-dev+g931f28841
+[lsp]2024/04/04 17:48:16 main.go:57: Sent the reply
+[lsp]2024/04/04 17:48:16 main.go:42: Received msg with method : initialized 
+[lsp]2024/04/04 17:48:16 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 17:48:16 main.go:63:  file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:48:16 main.go:66:  # me making lsp , this content should be bought with money!
+
+hi, i'm learning from tj devries
+hi, how are you doing 
+whatever i write here
+[lsp]2024/04/04 17:48:17 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:48:17 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:48:18 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:48:18 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:48:18 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:48:18 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:48:19 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:48:19 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:48:20 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:48:20 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:48:20 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:48:20 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:48:20 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:48:20 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:48:21 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:48:21 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:48:21 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:48:21 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:48:21 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:48:21 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:48:21 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:48:21 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:48:21 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:48:21 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:48:21 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:48:21 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:48:22 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:48:22 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:48:22 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:48:22 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:48:22 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:48:22 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:48:23 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:48:23 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:48:23 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:48:23 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:48:23 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:48:23 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:48:23 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:48:23 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:48:23 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:48:23 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:48:23 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:48:23 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:48:24 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:48:24 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:48:24 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:48:24 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:48:25 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:48:25 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:48:25 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:48:25 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:48:25 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:48:25 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:48:25 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:48:25 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:48:25 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:48:25 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:48:25 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:48:25 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:48:26 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:48:26 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:48:26 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:48:26 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:48:26 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:48:26 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:48:27 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:48:27 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:50:36 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:50:36 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:50:37 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:50:37 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:50:39 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:50:39 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:50:39 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:50:39 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:53:20 main.go:42: Received msg with method : shutdown 
+[lsp]2024/04/04 17:53:28 main.go:18: Hey, I started!
+[lsp]2024/04/04 17:53:28 main.go:42: Received msg with method : initialize 
+[lsp]2024/04/04 17:53:28 main.go:51: Connected to Neovim 0.10.0-dev+g931f28841
+[lsp]2024/04/04 17:53:28 main.go:57: Sent the reply
+[lsp]2024/04/04 17:53:28 main.go:42: Received msg with method : initialized 
+[lsp]2024/04/04 17:53:28 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 17:53:28 main.go:63:  file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:53:28 main.go:66:  # me making lsp , this content should be bought with money!
+
+hi, i'm learning from tj devries
+hi, how are you doing 
+whatever i write here
+[lsp]2024/04/04 17:56:44 main.go:42: Received msg with method : shutdown 
+[lsp]2024/04/04 17:56:48 main.go:18: Hey, I started!
+[lsp]2024/04/04 17:56:48 main.go:42: Received msg with method : initialize 
+[lsp]2024/04/04 17:56:48 main.go:51: Connected to Neovim 0.10.0-dev+g931f28841
+[lsp]2024/04/04 17:56:48 main.go:57: Sent the reply
+[lsp]2024/04/04 17:56:48 main.go:42: Received msg with method : initialized 
+[lsp]2024/04/04 17:56:48 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 17:56:48 main.go:63:  file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:56:48 main.go:66:  # me making lsp , this content should be bought with money!
+
+hi, i'm learning from tj devries
+hi, how are you doing 
+whatever i write here
+[lsp]2024/04/04 17:57:01 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:57:01 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:57:02 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:57:02 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:57:02 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:57:02 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:57:03 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:57:03 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:57:04 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:57:04 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:57:04 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:57:04 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:57:04 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:57:04 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:57:04 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:57:04 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:57:04 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:57:04 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:57:05 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:57:05 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:57:05 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:57:05 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:57:05 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:57:05 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:57:05 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:57:05 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:57:05 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:57:05 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:57:05 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:57:05 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:57:05 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:57:05 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:57:06 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:57:06 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:57:06 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:57:06 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:57:06 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:57:06 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:57:07 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:57:07 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:57:07 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:57:07 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:57:07 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:57:07 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:57:07 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:57:07 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:59:07 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:59:07 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 17:59:07 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 17:59:07 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 18:50:25 main.go:42: Received msg with method : textDocument/didSave 
+[lsp]2024/04/04 18:50:42 main.go:42: Received msg with method : shutdown 
+[lsp]2024/04/04 18:51:18 main.go:18: Hey, I started!
+[lsp]2024/04/04 18:51:18 main.go:42: Received msg with method : initialize 
+[lsp]2024/04/04 18:51:18 main.go:51: Connected to Neovim 0.10.0-dev+g931f28841
+[lsp]2024/04/04 18:51:18 main.go:57: Sent the reply
+[lsp]2024/04/04 18:51:18 main.go:42: Received msg with method : initialized 
+[lsp]2024/04/04 18:51:18 main.go:42: Received msg with method : textDocument/didOpen 
+[lsp]2024/04/04 18:51:18 main.go:63:  file:///home/amz/lsp/README.md
+[lsp]2024/04/04 18:51:18 main.go:66:  # me making lsp , this content should be bought with money!
+
+hi, i'm learning from tj devries
+hi, how are you doing 
+whatever i write here
+
+
+VS Code is beautiful 
+[lsp]2024/04/04 18:51:21 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 18:51:21 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 18:51:21 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 18:51:21 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 18:51:21 main.go:42: Received msg with method : textDocument/completion 
+[lsp]2024/04/04 18:51:38 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 18:51:38 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 18:51:39 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 18:51:39 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 18:51:39 main.go:42: Received msg with method : textDocument/completion 
+[lsp]2024/04/04 18:51:39 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 18:51:39 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 18:51:40 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 18:51:40 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 18:51:42 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 18:51:42 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 18:51:43 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 18:51:43 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 18:51:43 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 18:51:43 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 18:51:43 main.go:42: Received msg with method : textDocument/didChange 
+[lsp]2024/04/04 18:51:43 main.go:74: Changed: file:///home/amz/lsp/README.md
+[lsp]2024/04/04 18:53:22 main.go:42: Received msg with method : textDocument/didSave 
+[lsp]2024/04/04 18:53:22 main.go:42: Received msg with method : shutdown 
